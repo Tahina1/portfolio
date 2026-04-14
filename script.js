@@ -13,11 +13,11 @@ document.documentElement.classList.add('js');
     if (!target) return;
 
     const phrases = [
-        'scalable applications.',
-        'C# / .NET solutions.',
+        'C# / .NET 8 APIs.',
+        'Clean Architecture.',
         'Node.js back-ends.',
-        'REST APIs.',
-        'elegant software.',
+        'scalable SaaS apps.',
+        'solid software.',
     ];
 
     let phraseIndex = 0;
